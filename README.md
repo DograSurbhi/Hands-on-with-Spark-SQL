@@ -11,3 +11,6 @@ The first column is the id of a user, and the second column is the ids of all th
 
 2. Movies dataset. This file contains movies information and has the following format (genres are delimited by “|”) :
 Movie_id#movie_title#genre1|genre2|genre3|…
+
+
+The solution is provided with the extension (.ipynb) Please use jupyter notebook to run and test code
